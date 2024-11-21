@@ -1,4 +1,6 @@
-export const users = [
+export const URL = 'https://jsonplaceholder.typicode.com/users'
+
+/* export const users = [
     {
         "id": 1,
         "name": "Leanne Graham",
@@ -59,4 +61,4 @@ export const users = [
         "username": "Moriah.Stanton",
         "email": "Rey.Padberg@karina.biz",
     }
-]
+] */
